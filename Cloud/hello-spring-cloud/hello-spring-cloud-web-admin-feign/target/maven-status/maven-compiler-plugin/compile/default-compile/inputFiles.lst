@@ -1,0 +1,5 @@
+F:\JAVA代码\Cloud\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\example\hello\spring\cloud\web\admin\feign\Service\AdminService.java
+F:\JAVA代码\Cloud\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\example\hello\spring\cloud\web\admin\feign\config\HystrixDashboardConfiguration.java
+F:\JAVA代码\Cloud\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\example\hello\spring\cloud\web\admin\feign\WebAdminFeignApplication.java
+F:\JAVA代码\Cloud\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\example\hello\spring\cloud\web\admin\feign\Service\hystrix\AdminServiceHystrix.java
+F:\JAVA代码\Cloud\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\example\hello\spring\cloud\web\admin\feign\Controller\AdminController.java
